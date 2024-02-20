@@ -2,20 +2,10 @@
 ### _I am Aina, a spirit passionate about technology and creation. Driven by curiosity and innovation, I strive to push the boundaries of imagination and bring innovative ideas to life in the digital world._
 > _Where every line of code tells a story_
 ## To contact me
-[![img_contact](./nouveau_chemin/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./nouveau_chemin/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./nouveau_chemin/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./nouveau_chemin/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./nouveau_chemin/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./nouveau_chemin/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./nouveau_chemin/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
-[![img_contact](./nouveau_chemin/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./nouveau_chemin/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./nouveau_chemin/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](lien_vers_votre_profil_facebook)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](lien_vers_votre_profil_linkedin)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:votre_adresse_email@gmail.com)
+
 
 &nbsp;&nbsp;
 ## Language and tools  
