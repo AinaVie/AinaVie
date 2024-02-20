@@ -1,4 +1,5 @@
-# Welcome to _my GitHub space_
+# Welcome to _my GitHub space_  
+### _I am Aina, a spirit passionate about technology and creation. Driven by curiosity and innovation, I strive to push the boundaries of imagination and bring innovative ideas to life in the digital world._
 > _Where every line of code tells a story_
 ## To contact me
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100009358777649)
