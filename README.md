@@ -5,7 +5,7 @@
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100009358777649)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ny-aina-andriaharisoa-219b96292)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:anunnakiaina@gmail.com)  
-## language and tools  
+## Language and tools  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="25px"></a>
 <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25px"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25px"></a>
