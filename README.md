@@ -2,9 +2,9 @@
 ### _I am Aina, a spirit passionate about technology and creation. Driven by curiosity and innovation, I strive to push the boundaries of imagination and bring innovative ideas to life in the digital world._
 > _Where every line of code tells a story_
 ## To contact me
-[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](lien_vers_votre_profil_facebook)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](lien_vers_votre_profil_linkedin)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:votre_adresse_email@gmail.com)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://web.facebook.com/profile.php?id=100009358777649)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ny-aina-andriaharisoa-219b96292/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:anunnakiaina@gmail.com)
 
 
 &nbsp;&nbsp;
