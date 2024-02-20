@@ -6,10 +6,10 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ny-aina-andriaharisoa-219b96292)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:anunnakiaina@gmail.com)  
 ## language and tools  
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:width="25px"}
-[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/){:width="25px"}
-[![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/){:width="25px"}
-[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML){:width="25px"}
-[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS){:width="25px"}
-[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://docs.microsoft.com/en-us/dotnet/csharp/){:width="25px"}
-[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/){:width="25px"}
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="25px"></a>
+<a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25px"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="25px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="25px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png" width="25px"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="25px"></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" width="25px"></a>
